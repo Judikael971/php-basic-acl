@@ -15,7 +15,7 @@ Usage
 index.php
 ````php
 <?php
-
+require 'vendor/autoload.php';
 $acl = new ACL();
 
 //--

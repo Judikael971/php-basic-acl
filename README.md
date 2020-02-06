@@ -7,7 +7,7 @@ Installation
 ------------
 You can clone the repository and work with the files directly, but everything is set up for composer, which makes it simple:
 
-    composer require judikael971/php-fast-acl
+    composer require judikael971/php-basic-acl
 
 
 Usage
